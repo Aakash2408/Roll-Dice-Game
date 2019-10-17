@@ -10,6 +10,7 @@
 #### - The player can choose to 'HOLD', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 
 #### - The first player to reach 100 points on GLOBAL score wins the game
+### - Enjoy  the game
 
 # Link for the game:
 https://aakash2408.github.io/Roll-Dice-Game/
